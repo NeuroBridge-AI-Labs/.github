@@ -1,10 +1,10 @@
 <div align="center">
 
+![NeuroBridge AI Labs - Extensions of your brain. Not replacements. Privacy-first AI tools for learning, work, security, climate research, and connection.](banner.webp)
+
 # NeuroBridge AI Labs
 
 ### Engaging Minds, Merging Ideas
-
-**AI that enhances humanity, built for neurodiversity.**
 
 </div>
 
@@ -25,7 +25,7 @@ Our work is neurodiversity-first and gender-equal by design. Founded by Emanuel 
 | **NeuroBridge Adapt** | Adaptive support that learns each person's patterns. |
 | **Neula** | An iOS "calm mirror" that reflects your ADHD patterns back, without judgement. |
 | **CyberSage** | An AI security intelligence for authorised testing and defence. |
-| **GreenCelt** | Sustainability tooling with an Irish heart. |
+| **GreenCelt** | Sustainability and climate-research tooling with an Irish heart. |
 | **PromptSage** | A framework for safe, robust prompting. |
 | **TimeSage / FlowForge** | Focus, time, and flow tools. |
 
@@ -33,12 +33,12 @@ Our work is neurodiversity-first and gender-equal by design. Founded by Emanuel 
 
 - **Accessibility is the baseline.** Reduced cognitive load, consistent patterns, WCAG AA.
 - **Human in the loop.** People make the calls; AI multiplies the capability.
-- **Build in the open where we can**, protect what must be private.
+- **Privacy-first.** We protect the data people trust us with.
 
 ## Get in touch
 
-- Web: emmi.zone
-- Contact: e.covasa@gmail.com
+- Web: neurobridgelabs.eu
+- Contact: ai@neurobridgelabs.eu
 
 <div align="center">
 
