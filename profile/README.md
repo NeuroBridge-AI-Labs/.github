@@ -1,6 +1,6 @@
 <div align="center">
 
-![NeuroBridge AI Labs - Extensions of your brain. Not replacements. Privacy-first AI tools for learning, work, security, climate research, and connection.](banner.webp)
+![NeuroBridge AI Labs - Extensions of your brain. Not replacements. Privacy-first AI tools for learning, work, security, climate research, and connection.](https://raw.githubusercontent.com/NeuroBridge-AI-Labs/.github/main/profile/banner.webp)
 
 # NeuroBridge AI Labs
 
